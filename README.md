@@ -1,11 +1,13 @@
 # API Template
 
-O Projeto é capaz de registrar eventos através da tela de cadastro de eventos e exibir o quatitativo de Sensores por região e país.
+Esta API é apenas um projeto que serve de base para a criação de outros projetos.
 
-# Tecnologias utilizadas
+# Utilizações
 
 *  API .Net Core 3.0
 *  Identity
 *  Swagger
 *  Entity Framework Core
-
+*  Migrations
+*  Doimain Notifications
+*  DDD
