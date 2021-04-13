@@ -1,0 +1,9 @@
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\bin\Debug\netcoreapp3.0\Template.Business.deps.json
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\bin\Debug\netcoreapp3.0\Template.Business.dll
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\bin\Debug\netcoreapp3.0\Template.Business.pdb
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.csprojAssemblyReference.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.AssemblyInfoInputs.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.AssemblyInfo.cs
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.csproj.CoreCompileInputs.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.dll
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Business\obj\Debug\netcoreapp3.0\Template.Business.pdb

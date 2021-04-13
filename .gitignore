@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Challenge.Api/bin/Debug/netcoreapp3.0
+/src/Challenge.Business/bin/Debug/netcoreapp3.0
+/src/Challenge.Data/bin/Debug/netcoreapp3.0

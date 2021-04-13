@@ -1,0 +1,8 @@
+C:\projetos\project-challenge\src\Challenge.Business\bin\Debug\netcoreapp3.0\Challenge.Business.deps.json
+C:\projetos\project-challenge\src\Challenge.Business\bin\Debug\netcoreapp3.0\Challenge.Business.dll
+C:\projetos\project-challenge\src\Challenge.Business\bin\Debug\netcoreapp3.0\Challenge.Business.pdb
+C:\projetos\project-challenge\src\Challenge.Business\obj\Debug\netcoreapp3.0\Challenge.Business.csprojAssemblyReference.cache
+C:\projetos\project-challenge\src\Challenge.Business\obj\Debug\netcoreapp3.0\Challenge.Business.AssemblyInfoInputs.cache
+C:\projetos\project-challenge\src\Challenge.Business\obj\Debug\netcoreapp3.0\Challenge.Business.AssemblyInfo.cs
+C:\projetos\project-challenge\src\Challenge.Business\obj\Debug\netcoreapp3.0\Challenge.Business.dll
+C:\projetos\project-challenge\src\Challenge.Business\obj\Debug\netcoreapp3.0\Challenge.Business.pdb

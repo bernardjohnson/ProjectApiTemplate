@@ -1,0 +1,12 @@
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\bin\Debug\netcoreapp3.0\Template.Data.deps.json
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\bin\Debug\netcoreapp3.0\Template.Data.dll
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\bin\Debug\netcoreapp3.0\Template.Data.pdb
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\bin\Debug\netcoreapp3.0\Template.Business.dll
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\bin\Debug\netcoreapp3.0\Template.Business.pdb
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.csprojAssemblyReference.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.AssemblyInfoInputs.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.AssemblyInfo.cs
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.csproj.CoreCompileInputs.cache
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.csproj.CopyComplete
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.dll
+C:\Users\berna\Downloads\project-challenge-master\src\Challenge.Data\obj\Debug\netcoreapp3.0\Template.Data.pdb

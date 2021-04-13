@@ -1,0 +1,11 @@
+C:\projetos\project-challenge\src\Challenge.Data\bin\Debug\netcoreapp3.0\Challenge.Data.deps.json
+C:\projetos\project-challenge\src\Challenge.Data\bin\Debug\netcoreapp3.0\Challenge.Data.dll
+C:\projetos\project-challenge\src\Challenge.Data\bin\Debug\netcoreapp3.0\Challenge.Data.pdb
+C:\projetos\project-challenge\src\Challenge.Data\bin\Debug\netcoreapp3.0\Challenge.Business.dll
+C:\projetos\project-challenge\src\Challenge.Data\bin\Debug\netcoreapp3.0\Challenge.Business.pdb
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.csprojAssemblyReference.cache
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.AssemblyInfoInputs.cache
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.AssemblyInfo.cs
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.csproj.CopyComplete
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.dll
+C:\projetos\project-challenge\src\Challenge.Data\obj\Debug\netcoreapp3.0\Challenge.Data.pdb

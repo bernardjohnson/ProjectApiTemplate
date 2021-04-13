@@ -1,0 +1,18 @@
+<table class="table table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Pais</th>
+        <th scope="col">Região</th>
+        <th scope="col">Sensor</th>
+        <th scope="col">Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let element of dataSource">
+        <td>{{element.pais}}</td>
+        <td>{{element.regiao}}</td>
+        <td>{{element.sensor}}</td>
+        <td>{{element.total}}</td>
+      </tr>
+    </tbody>
+  </table>
