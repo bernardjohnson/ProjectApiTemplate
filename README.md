@@ -1,6 +1,6 @@
 # API Template
 
-Esta API é apenas um projeto que serve de base para a criação de outros projetos.
+Este é apenas projeto WEB API que serve de base para a criação de outros projetos.
 
 # Utilizações
 
